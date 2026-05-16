@@ -27,9 +27,7 @@ Many games and Windows applications are unsupported on macOS, especially on Appl
 
 ## Supported Platforms
 
-- macOS Ventura
-- macOS Sonoma
-- Apple Silicon Macs
+- Apple Silicon Macs (macOS Sonoma or higher)
   - M1
   - M2
   - M3
@@ -72,3 +70,15 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/Mac-Game-Console.git
+
+
+## Software needed:
+
+Coseweavers Crossover, i found to be the cheapest among others like parallels where they want u have it for an even longer time 
+
+here is the website (https://www.codeweavers.com/)
+![alt text](<Screenshot 2026-05-16 at 9.47.38 AM.png>)
+
+here is the screenshot of the price:
+![alt text](<Screenshot 2026-05-16 at 9.42.34 AM.png>)
+
