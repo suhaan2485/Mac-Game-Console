@@ -36,7 +36,7 @@ Intel Macs may work, but this project mainly targets ARM-based Macs (M2+ wrok be
 
 ## Software Used
 
-Software = Purpose 
+[Software = Purpose] 
 
  CrossOver = Running Windows applications 
  Wine  = Windows compatibility layer 
